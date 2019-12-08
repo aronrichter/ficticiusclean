@@ -13,4 +13,6 @@ public interface VeiculoService {
     List<VeiculoResponse> getConsumoVeiculos(BigDecimal valorCombunstivel,
                                              BigDecimal kmRodadosCidade,
                                              BigDecimal kmRodadosRodovia);
+
+    void checkFields(Veiculo veiculo);
 }
