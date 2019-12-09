@@ -2,10 +2,11 @@
 
 Para seguir o passo a passo são necessários as seguintes aplicações:
 
-terminal bash
-maven
-java 11
-insomnia
+- terminal bash
+- maven
+- java 11
+- insomnia
+
 
 Após clonar o projeto, abra o terminal e digite o seguinte comando: "mvn clean package -U"
 
